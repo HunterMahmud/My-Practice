@@ -1,4 +1,7 @@
 // Binary search First and Last occur finding
+
+// soltuion way 1
+
 #include<bits/stdc++.h>
 using namespace std;
 
