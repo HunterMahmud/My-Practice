@@ -1,4 +1,4 @@
-// Binary search First finding how many times a number occur using first and last occur
+// Binary search finding how many times a number occur using first and last occur
 #include<bits/stdc++.h>
 using namespace std;
 
